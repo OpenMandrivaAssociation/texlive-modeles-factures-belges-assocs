@@ -1,6 +1,6 @@
 Name:		texlive-modeles-factures-belges-assocs
-Version:	50010
-Release:	2
+Version:	67840
+Release:	1
 Summary:	Generate invoices for Belgian non-profit organizations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modeles-factures-belges-assocs
