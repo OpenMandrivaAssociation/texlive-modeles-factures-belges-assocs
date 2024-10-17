@@ -3,7 +3,7 @@ Version:	67840
 Release:	1
 Summary:	Generate invoices for Belgian non-profit organizations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modeles-factures-belges-assocs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/modeles-factures-belges-assocs
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/modeles-factures-belges-assocs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/modeles-factures-belges-assocs.doc.r%{version}.tar.xz
